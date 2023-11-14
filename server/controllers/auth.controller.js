@@ -1,5 +1,4 @@
 import { expressjwt } from 'express-jwt';
-
 import jwt from 'jsonwebtoken';
 import config from '../../config';
 import User from '../models/user.model';
